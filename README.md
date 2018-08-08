@@ -1,1 +1,1 @@
-# gerzson
+# Ez itt a gerzson project
